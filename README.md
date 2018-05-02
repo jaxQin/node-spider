@@ -8,5 +8,6 @@ nodejs爬取西瓜视频（今日头条视频）
 2、  node get-by-user.js 
 3、  随意打开一个浏览器 输入：http://localhost:3003/?keyword=头条号名称
 
+![S0mFy.png](https://s1.ax2x.com/2018/05/02/S0mFy.png)
 
-![](https://i02picsos.sogoucdn.com/d6013ba4cec858b3)
+
